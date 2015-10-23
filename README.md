@@ -1,3 +1,3 @@
 # pglecturers
 PostgreSQL Lecturers PPT, discuss here.
-https://github.com/PGer/pglecturers/wiki
+https://github.com/PGer/pglecturers/issues
